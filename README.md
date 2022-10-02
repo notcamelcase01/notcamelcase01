@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently to busy in time pass.
+- 🔭 I’m currently too busy in time pass.
 
 <!--
 **notcamelcase01/notcamelcase01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
