@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently too busy in time pass.
-- ME22MTECH14006 if you're here for verification ehe
+- ME22MTECH14006 if you're here for verification 
 
 <!--
 **notcamelcase01/notcamelcase01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
